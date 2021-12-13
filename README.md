@@ -1,3 +1,5 @@
+> 重写一下 python3 版本
+
 Usage：
 
 ​	NxsFile :
